@@ -1,4 +1,4 @@
-﻿import { useState } from 'react'
+import { useState } from 'react'
 import { FaEnvelope, FaLinkedinIn, FaPhone } from 'react-icons/fa'
 import { contactCards, socialLinks } from '../../data/siteData'
 import AnimatedSection from '../common/AnimatedSection'
@@ -135,9 +135,6 @@ export default function ContactSection() {
                   )
                 })}
               </div>
-              {/* <p className="mt-4 text-xs leading-6 text-slate-500">
-                Open http://localhost:5050 to view stored submissions in the backend.
-              </p> */}
             </div>
           </GlassCard>
 
@@ -217,5 +214,6 @@ export default function ContactSection() {
     </AnimatedSection>
   )
 }
+
 
 
