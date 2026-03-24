@@ -1,0 +1,54 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="640" rx="40" fill="url(#paint0_linear)" fill-opacity="0.08"/>
+  <g opacity="0.3" stroke="url(#paint1_linear)" stroke-width="1.2">
+    <path d="M80 120H560"/>
+    <path d="M80 220H560"/>
+    <path d="M80 320H560"/>
+    <path d="M80 420H560"/>
+    <path d="M80 520H560"/>
+    <path d="M120 80V560"/>
+    <path d="M220 80V560"/>
+    <path d="M320 80V560"/>
+    <path d="M420 80V560"/>
+    <path d="M520 80V560"/>
+  </g>
+  <g opacity="0.9">
+    <rect x="124" y="140" width="80" height="250" rx="16" fill="url(#paint2_linear)"/>
+    <rect x="236" y="250" width="80" height="140" rx="16" fill="url(#paint3_linear)"/>
+    <rect x="348" y="186" width="80" height="204" rx="16" fill="url(#paint4_linear)"/>
+    <rect x="460" y="96" width="80" height="294" rx="16" fill="url(#paint5_linear)"/>
+  </g>
+  <circle cx="160" cy="484" r="16" fill="#38BDF8"/>
+  <circle cx="480" cy="486" r="16" fill="#8B5CF6"/>
+  <path d="M160 484C256 410 336 302 480 486" stroke="url(#paint6_linear)" stroke-width="8" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="64" y1="32" x2="560" y2="608" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="80" y1="80" x2="560" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear" x1="124" y1="140" x2="204" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear" x1="236" y1="250" x2="316" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="paint4_linear" x1="348" y1="186" x2="428" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="paint5_linear" x1="460" y1="96" x2="540" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="paint6_linear" x1="160" y1="390" x2="480" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+</svg>
